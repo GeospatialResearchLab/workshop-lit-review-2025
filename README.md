@@ -1,6 +1,6 @@
 # AI Tools for Research: Getting Started with Literature Reviews
 
-**Date:** October 2025 
+**Date:** October 2025  
 **Hosted by:** Digital Research and Innovation Lab (AI in Research series)  
 **Instructor:** Jessica Breen, PhD (Program Director, Geospatial Research Support)  
 **Tags:** AI • Literature Reviews • Research Tools • Workshop
