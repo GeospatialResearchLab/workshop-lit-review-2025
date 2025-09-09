@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI Tools for Research: Getting Started with Literature Reviews",
+    "section": "",
+    "text": "Writing a literature review can feel overwhelming. You may find yourself unsure where to begin, what matters, or how to keep track of everything. You might also feel uncertain about what the goal of a literature review even is. This guide will walk you through how to get started with writing a literature review. Along the way, we’ll introduce a few research tools that can help you trace connections, find related work, and keep your review focused and manageable."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "AI Tools for Research: Getting Started with Literature Reviews",
+    "section": "",
+    "text": "Writing a literature review can feel overwhelming. You may find yourself unsure where to begin, what matters, or how to keep track of everything. You might also feel uncertain about what the goal of a literature review even is. This guide will walk you through how to get started with writing a literature review. Along the way, we’ll introduce a few research tools that can help you trace connections, find related work, and keep your review focused and manageable."
+  },
+  {
+    "objectID": "index.html#start-with-known-landmarks",
+    "href": "index.html#start-with-known-landmarks",
+    "title": "AI Tools for Research: Getting Started with Literature Reviews",
+    "section": "Start with Known Landmarks",
+    "text": "Start with Known Landmarks\nA literature review is different than a traditional research paper or an annotated bibliography. The goal is not just to gather references, but to understand the conversation already happening in your field. How have other scholars approached your topic? Where do they agree or disagree? What questions still remain? Most importantly, it’s about identifying how your own research builds on, responds to, or challenges what’s already out there.\nThat might sound like a lot, but remember you’re not starting from scratch. You already have materials to work with: articles you’ve read in your courses, texts your advisor has pointed you toward, and the foundational works in your discipline that you keep hearing referenced. These are your entry point."
+  },
+  {
+    "objectID": "index.html#follow-the-conversation",
+    "href": "index.html#follow-the-conversation",
+    "title": "AI Tools for Research: Getting Started with Literature Reviews",
+    "section": "Follow the Conversation",
+    "text": "Follow the Conversation\nBegin by identifying just a few key articles you already know are important to your topic. Once you’ve identified a key article, look at who they cite and who cites them. This shows who came before and shaped their thinking and how their work has influenced others after them. This process of stringing articles together through their citations is how you trace the evolution of ideas and see how arguments are built.\nSeveral tools can help you follow the scholarly conversation:\nGoogle Scholar lets you search by article title or author name. Use the “Cited by” link beneath an article to see who has built on it, and the “Related articles” link to find similar work. The advanced search tools allow you to limit your search to particular journals or time periods.\nSemantic Scholar offers AI-powered summaries and highlights key points within a paper. It allows you to track citation contexts showing not just who cited a paper, but why. It can also suggest influential citations to help you prioritize what to read. Semantic Scholar is especially strong in STEM fields, though coverage in the social sciences and humanities is growing.\nResearch Rabbit allows you to build a collection of relevant papers and visualize their connections in a citation network. You can explore co-authorship networks, identify clusters of related research, and use the timeline view to see how ideas are connected over time. This is a great exploratory tool when you’re trying to discover new directions or fill in conceptual gaps between articles."
+  },
+  {
+    "objectID": "index.html#search-strategically",
+    "href": "index.html#search-strategically",
+    "title": "AI Tools for Research: Getting Started with Literature Reviews",
+    "section": "Search Strategically",
+    "text": "Search Strategically\nYou’ll still need to use library databases to find additional literature, but now you’re searching with a clearer purpose. Instead of throwing in vague keywords, you’re looking to fill gaps in the conversation, locate more recent work, and test your understanding of the topic so far.\nAt this point, your subject or liaison librarian can be a valuable partner. You can schedule a one-on-one research appointment with your subject librarian through the library website. These sessions are collaborative and tailored to your topic. They can help you identify which databases are best for your field, develop a more strategic approach to searching, and troubleshoot common issues like getting too many irrelevant results or too few useful ones."
+  },
+  {
+    "objectID": "index.html#keeping-track-of-what-you-find",
+    "href": "index.html#keeping-track-of-what-you-find",
+    "title": "AI Tools for Research: Getting Started with Literature Reviews",
+    "section": "Keeping Track of What You Find",
+    "text": "Keeping Track of What You Find\nAs you begin gathering sources, now is the time to start using a citation manager. This software tool will help you stay organized and make your writing and citation process much easier later on.\nThe library provides support for Zotero, a free, open-source citation manager that allows you to save references directly from your browser, organize readings into collections or tags, generate citations and bibliographies in any citation style, and sync your research library across devices. Zotero integrates with both Microsoft Word and Google Docs, making it easy to cite while you write when you get to that step.\nWe recommend downloading Zotero and the browser connector before you begin intensive searching, so you can start building your research library from the start. If you’d like help getting set up or learning how to use Zotero effectively, the library offers workshops and individual appointments."
+  },
+  {
+    "objectID": "index.html#make-article-access-easier-with-libkey-nomad",
+    "href": "index.html#make-article-access-easier-with-libkey-nomad",
+    "title": "AI Tools for Research: Getting Started with Literature Reviews",
+    "section": "Make Article Access Easier with LibKey Nomad",
+    "text": "Make Article Access Easier with LibKey Nomad\nInstalling LibKey Nomad, a browser extension available for Chrome, Firefox, and Edge, can save you a lot of time. Once installed, it will automatically detect when an article you’re viewing is available through the library’s subscriptions and provide a direct download link when possible.\nThis means that even if you’re searching Google Scholar or visiting a publisher’s website, you’ll still get seamless access to full-text articles without having to backtrack through the library’s homepage. It’s a small tool, but one that makes a big difference in your workflow.\nInstructions for installing LibKey Nomad and linking it to your institution are available on the library’s website."
+  },
+  {
+    "objectID": "index.html#a-note-on-managing-pdfs",
+    "href": "index.html#a-note-on-managing-pdfs",
+    "title": "AI Tools for Research: Getting Started with Literature Reviews",
+    "section": "A Note on Managing PDFs",
+    "text": "A Note on Managing PDFs\nWhen doing your literature search, it may be tempting to download every article PDF that looks remotely useful. However, we recommend taking a more selective approach. Save just the citation itself to your citation manager instead, and only download the PDF once you’re ready to read or annotate it.\nThis helps avoid clutter and makes it easier to manage your research library in the long run. Zotero allows you to attach PDFs to citations later, so you won’t lose anything by waiting."
+  },
+  {
+    "objectID": "index.html#literature-reviews-are-a-learned-skill",
+    "href": "index.html#literature-reviews-are-a-learned-skill",
+    "title": "AI Tools for Research: Getting Started with Literature Reviews",
+    "section": "Literature Reviews Are a Learned Skill",
+    "text": "Literature Reviews Are a Learned Skill\nA literature review can sometimes seem like a hoop to jump through, but it’s how you learn what your field values, what kinds of questions are still being asked, and where your work might contribute. It’s not simply about gathering sources; it’s about learning to speak the language of your discipline and beginning to stake out your own voice in the scholarly dialogue.\nThat’s a big task, and for many graduate students, it’s a new skill. We often only see the end results: the polished, tightly written literature reviews that appear in journal articles or books. Those are the final drafts, honed by experience and often multiple rounds of peer review. But a literature review doesn’t start out that way.\nIf you want a more realistic view of what a graduate-level literature review actually looks like check out ProQuest’s Dissertations and Theses Global database. These documents show what a literature review looks like for someone at your stage of academic development. You’ll notice longer, more exploratory writing, often with more detailed explanations than you’d find in journal articles.\nAnd remember you’re not doing this alone. Whether you’re stuck trying to find an article, need help using a tool, or want to talk through your topic, your librarians are here to help. Reach out anytime. We’d love to work with you."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
