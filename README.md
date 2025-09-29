@@ -2,7 +2,7 @@
 
 **Date:** October 2025  
 **Hosted by:** Digital Research and Innovation Lab (AI in Research series)  
-**Instructors:** Jessica Breen, PhD (Program Director, Geospatial Research Support) and Ashley Roccamo, PhD (Head, Digital Reseach and Innovation Lab)
+**Instructors:** Jessica Breen, PhD (Program Director, Geospatial Research Support) and Ashley Roccamo, PhD (Head, Digital Reseach and Innovation Lab)  
 **Tags:** AI • Literature Reviews • Research Tools • Workshop
 
 ---
@@ -36,7 +36,6 @@ This session is part of the AI Tools in Research series hosted by the Digital Re
 ## Partners / Series
 
 This workshop is part of the **AI Tools in Research** series hosted by the **Digital Research and Innovation Lab**.  
-Content was developed and delivered by the **Geospatial Research Lab**.
 
 ---
 
