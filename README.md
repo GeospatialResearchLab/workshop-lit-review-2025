@@ -2,7 +2,7 @@
 
 **Date:** October 2025  
 **Hosted by:** Digital Research and Innovation Lab (AI in Research series)  
-**Instructor:** Jessica Breen, PhD (Program Director, Geospatial Research Support)  
+**Instructors:** Jessica Breen, PhD (Program Director, Geospatial Research Support) and Ashley Roccamo, PhD (Head, Digital Reseach and Innovation Lab)
 **Tags:** AI • Literature Reviews • Research Tools • Workshop
 
 ---
@@ -42,6 +42,6 @@ Content was developed and delivered by the **Geospatial Research Lab**.
 
 ## Citation
 
-Breen, J. (2025). *AI Tools for Research: Getting Started with Literature Reviews* (workshop materials).  
+Breen, J. and A. Roccamo. (2025). *AI Tools for Research: Getting Started with Literature Reviews* (workshop materials).  
 Geospatial Research Lab, American University Library.  
 https://github.com/GeospatialResearchLab/workshop-ai-lit-review-2025
