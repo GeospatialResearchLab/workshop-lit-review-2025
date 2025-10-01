@@ -15,8 +15,8 @@ This session is part of the AI Tools in Research series hosted by the Digital Re
 
 ## Materials
 
-- **Slides (PDF):** [`handouts/slides.pdf`](handouts/slides.pdf)  
-- **Handout (PDF):** [`handouts/handout.pdf`](handouts/handout.pdf)  
+- **Slides (PDF):** [`documents/slides.pdf`](documents/slides.pdf)  
+- **Handout (PDF):** [`documents/handout.pdf`](documents/handout.pdf)  
 
 
 ---
