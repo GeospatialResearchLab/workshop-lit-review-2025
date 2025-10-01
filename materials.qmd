@@ -2,4 +2,4 @@
 title: "Materials"
 ---
 
-This is where links to workshop materials will go.
+[Workshop Handout](https://github.com/GeospatialResearchLab/workshop-lit-review-2025/blob/main/documents/Finding_Reliable_Resources_for_Your_Literature_Review.pdf)
