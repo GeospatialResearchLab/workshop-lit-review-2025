@@ -7,6 +7,8 @@ website:
     left:
       - href: https://geospatialresearchlab.github.io
         text: Home
+      - href: materials.qmd
+        text: Materials
 
 format:
   html:

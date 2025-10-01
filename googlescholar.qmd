@@ -1,0 +1,59 @@
+---
+title: "Google Scholar Quick Guide"
+format: html
+---
+[Google Scholar](https://scholar.google.com/) is a freely accessible search engine for scholarly literature. It includes journal articles, theses, books, preprints, and more. While not comprehensive, it’s a great starting point for identifying foundational works and following citation trails.
+## Using Google Scholar for a Literature Review
+
+### 1. Start with Known Articles  
+Begin with a reading you already know is important in your field. Here you can see the partial results of a search for Garret Hardin's "The Tragedy of the Commons" first published in Science in 1968.
+
+![[images/search_results.png]]
+
+ The phrase "tragedy of the commons" has become well used since the publication of this paper and we can see that there are a large number of versions available, so "1968" was added to the title search to narrow it down. 
+ 
+ Remember to use quotation marks to search for exact terms and try using adding the author name or keywords, if you're having trouble finding the article you're looking for.
+
+---
+
+### 2. Use “Cited by” to Follow the Conversation  
+The **“Cited by”** link shows newer articles that referenced the original. Click it to trace how the work influenced later research.
+
+![[images/cited_by.png]]
+
+You can use the **“search within citing articles”** option to limit your search to just those articles that cited your original search article.
+
+![[images/search_within.png]]
+
+---
+
+### 3. Use “Related articles” to Expand Laterally  
+Find papers with similar topics or methods, even if they don’t cite the same sources. This helps identify tangential or emerging areas.
+
+![[images/related_articles.png]]
+
+![[images/related_results.png]]
+
+---
+
+### 4. Link to AU Library to Get Full Text  
+To set up Google Scholar for accessing AU Library materials, start at the main Google Scholar page and click on the 3 bar menu in the upper left corner. From that menu, select **Settings** then **Library Links** and use the search box to look up _American University_. Check the box for **American University – Full Text at American U**. Then search again for Open WorldCat and check the box for **Open WorldCat – Library Search**, then click **Save**. You’re now ready to use Google Scholar to find and access AU Library resources.
+
+- Adds a **“Full Text @ American U”** to the Google Scholar search results for items available through AU.
+- This helps you avoid paywalls and broken links by connecting you to AU Library's holdings.
+![[images/link_AU_library.png]]
+
+
+---
+
+## Limitations
+
+- Results are ranked by relevance, not quality
+- Lacks advanced search tools (Boolean, filters)
+- Includes duplicates, preprints, and non-peer-reviewed sources
+
+---
+
+## Tip for AI-Powered Discovery  
+Once you’ve identified a few key papers in Google Scholar, you can use tools like **Semantic Scholar** or **Research Rabbit** to build a visual or AI-enhanced map of related literature.
+

@@ -28,15 +28,15 @@ Several tools can help you follow the scholarly conversation:
 
 You’ll still need to use library databases to find additional literature, but now you’re searching with a clearer purpose. Instead of throwing in vague keywords, you’re looking to fill gaps in the conversation, locate more recent work, and test your understanding of the topic so far.
 
-At this point, your subject or liaison librarian can be a valuable partner. You can [schedule a one-on-one research appointment with your subject librarian]() through the library website. These sessions are collaborative and tailored to your topic. They can help you identify which databases are best for your field, develop a more strategic approach to searching, and troubleshoot common issues like getting too many irrelevant results or too few useful ones.
+At this point, your subject or liaison librarian can be a valuable partner. You can [schedule a one-on-one research appointment with your subject librarian](https://www.american.edu/library/ask/index.cfm) through the library website. These sessions are collaborative and tailored to your topic. They can help you identify which databases are best for your field, develop a more strategic approach to searching, and troubleshoot common issues like getting too many irrelevant results or too few useful ones.
 
 ## Keeping Track of What You Find
 
 As you begin gathering sources, now is the time to start using a citation manager. This software tool will help you stay organized and make your writing and citation process much easier later on.
 
-The library provides support for [Zotero](), a free, open-source citation manager that allows you to save references directly from your browser, organize readings into collections or tags, generate citations and bibliographies in any citation style, and sync your research library across devices. Zotero integrates with both Microsoft Word and Google Docs, making it easy to cite while you write when you get to that step.
+The library provides support for [Zotero](https://www.zotero.org/), a free, open-source citation manager that allows you to save references directly from your browser, organize readings into collections or tags, generate citations and bibliographies in any citation style, and sync your research library across devices. Zotero integrates with both Microsoft Word and Google Docs, making it easy to cite while you write when you get to that step.
 
-We recommend downloading Zotero and the browser connector before you begin intensive searching, so you can start building your research library from the start. If you’d like help getting set up or learning how to use Zotero effectively, the library offers workshops and individual appointments.
+We recommend downloading Zotero and the browser connector before you begin intensive searching, so you can start building your research library from the start. If you’d like help getting set up or learning how to use Zotero effectively, the library offers a [LibGuide](https://subjectguides.library.american.edu/zotero) where you can learn more about using the software and get librarian assistance.
 
 ## Make Article Access Easier with LibKey Nomad
 
@@ -44,7 +44,7 @@ Installing LibKey Nomad, a browser extension available for Chrome, Firefox, and 
 
 This means that even if you’re searching Google Scholar or visiting a publisher’s website, you’ll still get seamless access to full-text articles without having to backtrack through the library’s homepage. It’s a small tool, but one that makes a big difference in your workflow.
 
-[Instructions for installing LibKey Nomad and linking it to your institution are available on the library’s website.]()
+[Instructions for installing LibKey Nomad and linking it are available on the library’s website.](https://answers.library.american.edu/faq/343608)
 
 ## A Note on Managing PDFs
 
@@ -58,6 +58,6 @@ A literature review can sometimes seem like a hoop to jump through, but it’s h
 
 That’s a big task, and for many graduate students, it’s a new skill. We often only see the end results: the polished, tightly written literature reviews that appear in journal articles or books. Those are the final drafts, honed by experience and often multiple rounds of peer review. But a literature review doesn’t start out that way.
 
-If you want a more realistic view of what a graduate-level literature review actually looks like check out [ProQuest’s Dissertations and Theses Global database](). These documents show what a literature review looks like for someone at your stage of academic development. You’ll notice longer, more exploratory writing, often with more detailed explanations than you’d find in journal articles.
+If you want a more realistic view of what a graduate-level literature review actually looks like check out [ProQuest’s Dissertations and Theses Global database](https://subjectguides.library.american.edu/global-dissertations-theses). These documents show what a literature review looks like for someone at your stage of academic development. You’ll notice longer, more exploratory writing, often with more detailed explanations than you’d find in journal articles.
 
 And remember you’re not doing this alone. Whether you’re stuck trying to find an article, need help using a tool, or want to talk through your topic, your librarians are here to help. Reach out anytime. We’d love to work with you.
