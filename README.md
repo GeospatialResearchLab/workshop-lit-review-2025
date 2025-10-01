@@ -16,7 +16,7 @@ This session is part of the AI Tools in Research series hosted by the Digital Re
 ## Materials
 
 - **Slides (PDF):** [`documents/slides.pdf`](documents/slides.pdf)  
-- **Handout (PDF):** [`documents/Finding_Reliable_Resources_for_Your_Literature_Review.pdf`](documents/handout.pdf)  
+- **Handout (PDF):** [`documents/handout.pdf`](documents/Finding_Reliable_Resources_for_Your_Literature_Review.pdf)  
 
 
 ---
