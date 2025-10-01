@@ -7,6 +7,27 @@
     "text": "This is where links to workshop materials will go."
   },
   {
+    "objectID": "googlescholar.html",
+    "href": "googlescholar.html",
+    "title": "Google Scholar Quick Guide",
+    "section": "",
+    "text": "Google Scholar is a freely accessible search engine for scholarly literature. It includes journal articles, theses, books, preprints, and more. While not comprehensive, it’s a great starting point for identifying foundational works and following citation trails. ## Using Google Scholar for a Literature Review"
+  },
+  {
+    "objectID": "googlescholar.html#limitations",
+    "href": "googlescholar.html#limitations",
+    "title": "Google Scholar Quick Guide",
+    "section": "Limitations",
+    "text": "Limitations\n\nResults are ranked by relevance, not quality\nLacks advanced search tools (Boolean, filters)\nIncludes duplicates, preprints, and non-peer-reviewed sources"
+  },
+  {
+    "objectID": "googlescholar.html#tip-for-ai-powered-discovery",
+    "href": "googlescholar.html#tip-for-ai-powered-discovery",
+    "title": "Google Scholar Quick Guide",
+    "section": "Tip for AI-Powered Discovery",
+    "text": "Tip for AI-Powered Discovery\nOnce you’ve identified a few key papers in Google Scholar, you can use tools like Semantic Scholar or Research Rabbit to build a visual or AI-enhanced map of related literature."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "AI Tools for Research: Getting Started with Literature Reviews",
@@ -46,14 +67,14 @@
     "href": "index.html#keeping-track-of-what-you-find",
     "title": "AI Tools for Research: Getting Started with Literature Reviews",
     "section": "Keeping Track of What You Find",
-    "text": "Keeping Track of What You Find\nAs you begin gathering sources, now is the time to start using a citation manager. This software tool will help you stay organized and make your writing and citation process much easier later on.\nThe library provides support for Zotero, a free, open-source citation manager that allows you to save references directly from your browser, organize readings into collections or tags, generate citations and bibliographies in any citation style, and sync your research library across devices. Zotero integrates with both Microsoft Word and Google Docs, making it easy to cite while you write when you get to that step.\nWe recommend downloading Zotero and the browser connector before you begin intensive searching, so you can start building your research library from the start. If you’d like help getting set up or learning how to use Zotero effectively, the library offers workshops and individual appointments."
+    "text": "Keeping Track of What You Find\nAs you begin gathering sources, now is the time to start using a citation manager. This software tool will help you stay organized and make your writing and citation process much easier later on.\nThe library provides support for Zotero, a free, open-source citation manager that allows you to save references directly from your browser, organize readings into collections or tags, generate citations and bibliographies in any citation style, and sync your research library across devices. Zotero integrates with both Microsoft Word and Google Docs, making it easy to cite while you write when you get to that step.\nWe recommend downloading Zotero and the browser connector before you begin intensive searching, so you can start building your research library from the start. If you’d like help getting set up or learning how to use Zotero effectively, the library offers a LibGuide where you can learn more about using the software and get librarian assistance."
   },
   {
     "objectID": "index.html#make-article-access-easier-with-libkey-nomad",
     "href": "index.html#make-article-access-easier-with-libkey-nomad",
     "title": "AI Tools for Research: Getting Started with Literature Reviews",
     "section": "Make Article Access Easier with LibKey Nomad",
-    "text": "Make Article Access Easier with LibKey Nomad\nInstalling LibKey Nomad, a browser extension available for Chrome, Firefox, and Edge, can save you a lot of time. Once installed, it will automatically detect when an article you’re viewing is available through the library’s subscriptions and provide a direct download link when possible.\nThis means that even if you’re searching Google Scholar or visiting a publisher’s website, you’ll still get seamless access to full-text articles without having to backtrack through the library’s homepage. It’s a small tool, but one that makes a big difference in your workflow.\nInstructions for installing LibKey Nomad and linking it to your institution are available on the library’s website."
+    "text": "Make Article Access Easier with LibKey Nomad\nInstalling LibKey Nomad, a browser extension available for Chrome, Firefox, and Edge, can save you a lot of time. Once installed, it will automatically detect when an article you’re viewing is available through the library’s subscriptions and provide a direct download link when possible.\nThis means that even if you’re searching Google Scholar or visiting a publisher’s website, you’ll still get seamless access to full-text articles without having to backtrack through the library’s homepage. It’s a small tool, but one that makes a big difference in your workflow.\nInstructions for installing LibKey Nomad and linking it are available on the library’s website."
   },
   {
     "objectID": "index.html#a-note-on-managing-pdfs",
