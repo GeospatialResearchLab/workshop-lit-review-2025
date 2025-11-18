@@ -4,11 +4,15 @@ project:
 website:
   title: "Geospatial Research Lab"
   navbar:
+    logo-href: about.qmd
+    
     left:
-      - href: https://geospatialresearchlab.github.io
+      - href: https://www.american.edu/library/technology/geospatial/
         text: Home
-      - href: materials.qmd
-        text: Materials
+      - href: workshops.qmd
+        text: Workshops
+      - href: https://subjectguides.library.american.edu/gis/home
+        text: "LibGuide"
 
 format:
   html:

@@ -1,10 +1,21 @@
 ---
 title: "AI Tools for Research: Getting Started with Literature Reviews"
+date: "10.01.2025"
+toc: true
+toc-depth: 3
 ---
 
-## Introduction
+## Overview
 
-Writing a literature review can feel overwhelming. You may find yourself unsure where to begin, what matters, or how to keep track of everything. You might also feel uncertain about what the goal of a literature review even is. This guide will walk you through how to get started with writing a literature review. Along the way, we’ll introduce a few research tools that can help you trace connections, find related work, and keep your review focused and manageable.
+Writing a literature review can feel overwhelming. You may find yourself unsure where to begin, what matters, or how to keep track of everything. You might also feel uncertain about what the goal of a literature review even is. This guide will walk you through how to get started with writing a literature review.
+
+## Learning Goals
+
+By the end of this workshop, participants will be able to:
+
+-   Use research tools to trace scholarly connections between articles.
+-   Identify related work using citation networks and recommendation tools.
+-   Apply strategies for keeping a literature review focused and manageable.
 
 ## Start with Known Landmarks
 
@@ -16,13 +27,71 @@ That might sound like a lot, but remember you’re not starting from scratch. Yo
 
 Begin by identifying just a few key articles you already know are important to your topic. Once you’ve identified a key article, look at who they cite and who cites them. This shows who came before and shaped their thinking and how their work has influenced others after them. This process of stringing articles together through their citations is how you trace the evolution of ideas and see how arguments are built.
 
-Several tools can help you follow the scholarly conversation:
+## Suggested Research Tools
 
-**Google Scholar** lets you search by article title or author name. Use the “Cited by” link beneath an article to see who has built on it, and the “Related articles” link to find similar work. The advanced search tools allow you to limit your search to particular journals or time periods.
+In the next sections, we’ll look at how there particular research tools, **Google Scholar**, **Semantic Scholar**, and **Research Rabbit**, can help you follow citation trails, discover related work, and visualize connections. Each tool will use the same example article, Garrett Hardin’s *“The Tragedy of the Commons,”* to show how the different tools reveal different parts of the scholarly conversation.
 
-**Semantic Scholar** offers AI-powered summaries and highlights key points within a paper. It allows you to track citation contexts showing not just who cited a paper, but why. It can also suggest influential citations to help you prioritize what to read. Semantic Scholar is especially strong in STEM fields, though coverage in the social sciences and humanities is growing.
+------------------------------------------------------------------------
 
-**Research Rabbit** allows you to build a collection of relevant papers and visualize their connections in a citation network. You can explore co-authorship networks, identify clusters of related research, and use the timeline view to see how ideas are connected over time. This is a great exploratory tool when you’re trying to discover new directions or fill in conceptual gaps between articles.
+### Google Scholar
+
+[Google Scholar](https://scholar.google.com/) is a freely accessible search engine for scholarly literature. It includes journal articles, theses, books, preprints, and more. While not comprehensive, it’s a great starting point for identifying foundational works and following citation trails.
+
+#### Getting Started
+
+Begin with a reading you already know is important in your field. Here you can see the partial results of a search for Garret Hardin's "The Tragedy of the Commons" first published in Science in 1968. Remember to use quotation marks to search for exact terms and try using adding the author name or keywords, if you're having trouble finding the article you're looking for.
+
+![](images/GS_search_results.png){fig-alt="Image of the search results for \"The tragedy of the commons\" 1968" fig-align="center"}
+
+The phrase "tragedy of the commons" has become well used since the publication of this paper and we can see that there are a large number of versions available, so "1968" was added to the title search to narrow it down. We could have alternatively used the **Advanced Search** option (accessed through the 3 bar menu in the upper left of the screen) to fill in more specific information about the article we were looking for.
+
+#### Use “Cited by” to Follow the Conversation
+
+The **“Cited by”** link shows newer articles that referenced the original. Click it to trace how the work influenced later research.
+
+![](images/cited_by.png){fig-alt="Image of the Google Scholar listing for The Tragedy of the Commons with the Cited by listing highlighted with a bright blue box." fig-align="center"}
+
+You can use the **“search within citing articles”** option to limit your search to just those articles that cited your original search article.
+
+![](images/GS_search_within.png){fig-alt="Image of the Google Scholar listing with the 'Search within citing articles' box checked and highlighted with a bright blue box." fig-align="center"}
+
+#### Use “Related articles” to Expand Laterally
+
+Find papers with similar topics or methods, even if they don’t cite the same sources. This helps identify tangential or emerging areas.
+
+![](images/related_articles.png){fig-alt="Image of the Google Scholar result listing with the 'Related articles' link text highlighted with a bright blue box." fig-align="center"}
+
+#### Link to AU Library to Get Full Text
+
+![](images/link_AU_library.png){fig-alt="Image of the Google Scholar Settings menu and the Library Link options." fig-align="center"}
+
+To set up Google Scholar for accessing AU Library materials, start at the main Google Scholar page and click on the 3 bar menu in the upper left corner:
+
+-   From that menu, select **Settings** then **Library Links** and use the search box to look up *American University*.
+-   Check the box for **American University – Full Text at American U**.
+-   Then search again for Open WorldCat and check the box for **Open WorldCat – Library Search**, then click **Save**.
+
+You’re now ready to use Google Scholar to find and access AU Library resources.
+
+-   Adds a **“Full Text \@ American U”** to the Google Scholar search results for items available through AU.
+-   This helps you avoid paywalls and broken links by connecting you to AU Library's holdings.
+
+::: callout-box
+#### Google Scholar Limitations:
+
+-   Results are ranked by relevance, not quality
+-   Includes duplicates, preprints, and non-peer-reviewed sources
+:::
+
+------------------------------------------------------------------------
+
+### Semantic Scholar
+
+------------------------------------------------------------------------
+
+### Research Rabbit
+
+------------------------------------------------------------------------
 
 ## Search Strategically
 
